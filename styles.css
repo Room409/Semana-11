@@ -1,0 +1,15 @@
+body{
+    background-image: url('./IMG/3671320.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.calculadora{
+    background-color: hsl(0, 12%, 55%);
+    
+    border-radius: 10px;
+}
+
+.btn{
+    font-size: 2rem;
+}

@@ -1,0 +1,13 @@
+.list-group{
+    width: 300px;
+    margin: auto;
+}
+
+.list-group-item{
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+}
+.completed{
+    color:green;
+}
